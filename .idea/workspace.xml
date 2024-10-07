@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d15451d-868e-47e3-b0e1-25b64d707903" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/2022-travel-plans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/distraction-article_september-2021.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fall-schedule.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hurricanes-football-schedule.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibis-news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/internet-sociology-paper.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/macintosh-128k.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/more-html-practice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;claycasani&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/claycasani/practice.git&quot;,
+    &quot;accountId&quot;: &quot;5a52caf0-2c88-4e0a-8e33-2229a95bdb9e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -37,6 +43,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/claycasani/Documents/GitHub/JMM341&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -68,6 +76,9 @@
       <workItem from="1724702689161" duration="10000" />
       <workItem from="1725309920154" duration="1143000" />
       <workItem from="1726434141598" duration="3000" />
+      <workItem from="1726441728609" duration="33000" />
+      <workItem from="1728250408377" duration="256000" />
+      <workItem from="1728320997758" duration="125000" />
     </task>
     <servers />
   </component>
